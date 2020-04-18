@@ -3,14 +3,14 @@
     following input. A permuted index is one in which each phrase is indexed
     by every word in the phrase.
 
-            The quick      brown fox 
-        jumped over the     fence
-        The quick brown     fox 
-                            jumped over the fence
-                jumped     over the fence
-                    The     quick brown fox 
-            jumped over     the fence
-                            The quick brown fox
+              The quick  brown fox 
+        jumped over the  fence
+        The quick brown  fox 
+                         jumped over the fence
+                 jumped  over the fence
+                    The  quick brown fox 
+            jumped over  the fence
+                         The quick brown fox
 
     More info in:
      * The AWK Programming Language by Aho, Kernighan, and Weinberger, pp.122-124
